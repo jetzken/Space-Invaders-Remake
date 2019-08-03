@@ -1,0 +1,13 @@
+- Menu screen added
+- Images updated
+- Smoother player movement
+- Different enemies with different attacks
+- Pause menu
+- Converted to Java only
+- Created sprite sheet, making use of Java's getSubImage
+- Randomly generated background using tiles
+- Help screen
+- Character Select
+- Bonus/"Mothership" enemy added
+- Force field/shields/bases added
+- Made player bullet move faster
